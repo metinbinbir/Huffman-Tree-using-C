@@ -15,5 +15,5 @@ Huffman coding is a data compression method without data loss. This program crea
 
 <b>SCREENSHOTS</b><br><br>
 ![3](https://user-images.githubusercontent.com/64909109/107520414-7377f180-6bc2-11eb-8ae9-61d657b9ada8.PNG)<br><br>
-![2](https://user-images.githubusercontent.com/64909109/107520413-72df5b00-6bc2-11eb-8ef0-5396b0c6ae8a.PNG)<br><br>
+![2](https://user-images.githubusercontent.com/64909109/107521718-f2b9f500-6bc3-11eb-89a2-f5151cbfb3c1.PNG)<br><br>
 ![1](https://user-images.githubusercontent.com/64909109/107520417-74108800-6bc2-11eb-8526-b9da0cdfcfe5.PNG)
